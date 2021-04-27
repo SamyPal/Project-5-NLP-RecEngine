@@ -28,8 +28,3 @@ Template Organization
     └── reports
         └── figures
 ```
-
-
-
-Enjoy!    
-Erik Kristofer Anderson
